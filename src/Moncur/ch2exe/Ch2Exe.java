@@ -1,0 +1,53 @@
+package Moncur.ch2exe;
+/*
+ * 9/6/18
+ * Zachary Moncur
+ * ch2 exe
+ */
+public class Ch2Exe {
+
+	public static void main(String[] args) {
+		System.out.println("Verse 1");
+		System.out.println("");
+		System.out.println("Comrade");
+		System.out.println("Steel production is down");
+		System.out.println("I said comrade");
+		System.out.println("You must sleep on the ground");
+		System.out.println("I said comrade");
+		System.out.println("You shouldn't nose around");
+		System.out.println("I said comrade");
+		System.out.println("The secret police will gun you down");
+		System.out.println("");
+		System.out.println("Chorus");
+		System.out.println("");
+		System.out.println("*musical notes*");
+		System.out.println("It's fun to stay at the USSR");
+		System.out.println("*musical notes*");
+		System.out.println("It's fun to stay at the USSR");
+		System.out.println("*musical notes*");
+		System.out.println("It's fun to stay at the USSR");
+		System.out.println("");
+		System.out.println("Verse 2");
+		System.out.println("");
+		System.out.println("Comrade");
+		System.out.println("Are you listening to me?");
+		System.out.println("I said comrade");
+		System.out.println("What do you want to be?");
+		System.out.println("I said comrade");
+		System.out.println("You got to know this one thing");
+		System.out.println("Comrade, you'll never make real your dreams");
+		System.out.println("Comrade");
+		System.out.println("I'm sorry to say");
+		System.out.println("You will work in a factory all day");
+		System.out.println("");
+		System.out.println("Chorus");
+		System.out.println("");
+		System.out.println("*musical notes*");
+		System.out.println("It's fun to stay at the USSR");
+		System.out.println("*musical notes*");
+		System.out.println("It's fun to stay at the USSR");
+		System.out.println("*musical notes*");
+		System.out.println("It's fun to stay at the USSR");
+	}
+
+}
