@@ -15,7 +15,7 @@ public class Ch2Exe {
 		System.out.println("You must sleep on the ground");
 		System.out.println("I said comrade");
 		System.out.println("You shouldn't nose around");
-		System.out.println("I said comrade");
+		System.out.println("Comrade");
 		System.out.println("The secret police will gun you down");
 		System.out.println("");
 		System.out.println("Chorus");
@@ -23,9 +23,17 @@ public class Ch2Exe {
 		System.out.println("*musical notes*");
 		System.out.println("It's fun to stay at the USSR");
 		System.out.println("*musical notes*");
-		System.out.println("It's fun to stay at the USSR");
+		System.out.println("I said its fun to stay at the");
+		System.out.println("U");
+		System.out.println("S");
+		System.out.println("S");
+		System.out.println("R");
 		System.out.println("*musical notes*");
-		System.out.println("It's fun to stay at the USSR");
+		System.out.println("It's fun to stay at the");
+		System.out.println("U");
+		System.out.println("S");
+		System.out.println("S");
+		System.out.println("R");
 		System.out.println("");
 		System.out.println("Verse 2");
 		System.out.println("");
@@ -45,9 +53,17 @@ public class Ch2Exe {
 		System.out.println("*musical notes*");
 		System.out.println("It's fun to stay at the USSR");
 		System.out.println("*musical notes*");
-		System.out.println("It's fun to stay at the USSR");
+		System.out.println("I said its fun to stay at the");
+		System.out.println("U");
+		System.out.println("S");
+		System.out.println("S");
+		System.out.println("R");
 		System.out.println("*musical notes*");
-		System.out.println("It's fun to stay at the USSR");
+		System.out.println("It's fun to stay at the");
+		System.out.println("U");
+		System.out.println("S");
+		System.out.println("S");
+		System.out.println("R");
 	}
 
 }
